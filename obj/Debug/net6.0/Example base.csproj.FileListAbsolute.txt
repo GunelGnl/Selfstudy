@@ -1,0 +1,15 @@
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\Example base.csproj.AssemblyReference.cache
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\Example base.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\Example base.AssemblyInfoInputs.cache
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\Example base.AssemblyInfo.cs
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\Example base.csproj.CoreCompileInputs.cache
+D:\CsharpLesson\Lesson1\Example base\bin\Debug\net6.0\Example base.exe
+D:\CsharpLesson\Lesson1\Example base\bin\Debug\net6.0\Example base.deps.json
+D:\CsharpLesson\Lesson1\Example base\bin\Debug\net6.0\Example base.runtimeconfig.json
+D:\CsharpLesson\Lesson1\Example base\bin\Debug\net6.0\Example base.dll
+D:\CsharpLesson\Lesson1\Example base\bin\Debug\net6.0\Example base.pdb
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\Example base.dll
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\refint\Example base.dll
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\Example base.pdb
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\Example base.genruntimeconfig.cache
+D:\CsharpLesson\Lesson1\Example base\obj\Debug\net6.0\ref\Example base.dll
